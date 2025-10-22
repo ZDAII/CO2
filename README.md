@@ -98,6 +98,16 @@ La medición de CO₂ en aulas se realiza mediante **sensores electrónicos**, i
 
 ---
 
+## 6. Datos obtenidos
+
+![](https://dl.dropboxusercontent.com/scl/fi/dca4pyhi3kf8k077cedm8/1.png?rlkey=v2liqsmf73he18o7rrrif8lzc&st=rtb0ax4m)
+
+![](https://dl.dropboxusercontent.com/scl/fi/0zx5091zlq9pqeebo5j2v/2.png?rlkey=9js66rwyjxj7swfx7vf5x85n8&st=xz1atbhf)
+
+![](https://dl.dropboxusercontent.com/scl/fi/zdsjkdr4rgc6l6hzhnojy/3.png?rlkey=pglnfs7tqsovagmi5kz85avw9&st=npkfx6js)
+
+---
+
 ## . Conclusión
 
 El **control del CO₂ en aulas** es esencial para mantener una **buena calidad del aire**, mejorar la **concentración** de los alumnos y **prevenir síntomas de fatiga o somnolencia**.  
