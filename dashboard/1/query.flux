@@ -1,0 +1,5 @@
+from(bucket: "sensores")
+  |> range(start: -1h)
+  |> filter(fn: (r) => r._measurement == "co2_sensor" and r._field == "co2_ppm")
+  |> aggregateWindow(every: 5s, fn: mean, createEmpty: false)
+  |> yield(name: "mean")
